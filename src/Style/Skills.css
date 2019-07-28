@@ -1,0 +1,65 @@
+.main-panel-skills{
+    position: absolute;
+    max-width: 75%;
+    top: 0;
+    left: 25%;
+    min-width: 75%;
+    min-height: 100vh;
+    overflow: hidden;
+    background-color: #fafafa;
+    padding: 0;
+   }
+
+.skills-main{
+    max-width: 70%;
+    min-width: 70%;
+    top: 0;
+    left: 0;
+    min-height: 100vh;
+    overflow: hidden;
+    background-color: #ffffff;
+    padding: 50px;
+}
+
+.skills-title{
+    font-family: 'Merriweather', serif;
+    margin: 0 0 15px;
+    color:#555555;
+}
+
+.skills-section-text{
+    font-family: 'Merriweather', serif;
+    color: #333333;
+    margin: 12px 0;
+    font-size: 14.5px;
+}
+
+.link-words:hover{
+    text-decoration: none;
+}
+
+.line-devider{
+    margin: 30px 0;
+}
+
+.detail-skills-ul{
+    padding: 15px 0 20px 40px;
+}
+
+.detail-skills-ul li{
+    font-family: 'Merriweather', serif;
+    color:#333333;
+}
+
+.tech-logos{
+    width:80px;
+}
+
+.tech-logos-li{
+    padding: 0 2%;
+    list-style: none;
+    display: inline;
+}
+
+
+

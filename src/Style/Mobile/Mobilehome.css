@@ -1,0 +1,62 @@
+
+.responsivehome{
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+
+
+    .center-fit{
+        display: none;
+    }
+
+    .responsivehome{
+        display: block;
+    }
+
+    .home-spec-bg{
+        max-width: 100%;
+        max-height: 100vh;
+        min-width: 100%;
+        min-height: 100vh;
+        -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+        filter: grayscale(100%);
+        position: relative;
+    }
+
+    .introduction{
+        max-width: 100%;
+        max-height: 100vh;
+        min-width: 100%;
+        min-height: 100vh;
+        width: auto;
+        top: 40%;
+        left: 10px;
+        position: absolute;
+    }
+
+
+    .line-a{
+        font-family: 'Merriweather', serif;
+        font-weight: bold;
+        padding-bottom: 5px;
+        color: white;
+
+    }
+
+    .line-b{
+        font-family: 'Merriweather', serif;
+        padding-bottom: 5px;
+        color: white;
+    }
+
+    .line-c{
+        font-family: 'Merriweather', serif;
+        font-weight: bold;
+        color: white;
+    }
+
+    .buttons{
+        margin-top: 5%;
+    }
+}

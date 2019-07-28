@@ -1,0 +1,68 @@
+.introduction{
+    top: 15vh;
+    left: 30%;
+    position: absolute;
+    max-width: 60%;
+    max-height: 60vh;
+    min-width: 60%;
+    min-height: 60vh;
+    width: auto;
+}
+
+.line-a{
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    padding-bottom: 15px;
+    color: black;
+}
+
+.line-b{
+    font-family: 'Merriweather', serif;
+    padding-bottom: 15px;
+    color: black;
+}
+
+.line-c{
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    color: black;
+}
+
+.buttons{
+    margin-top: 20%;
+}
+
+.main-buttons{
+    border: 1px solid white;
+    padding: 10px 50px;
+    text-decoration: none;
+    color: white;
+    box-shadow: 2px 5px 2px white;
+    margin-top: 100px;
+    font-family: 'Merriweather', serif;
+    letter-spacing: 2px;
+    opacity: 1;
+    animation: fadeIn 4s ease;
+}
+
+@keyframes fadeIn{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+.main-buttons:hover{
+    color: white;
+    padding: 20px 60px;
+    text-decoration: none;
+}
+
+.top-bottom{
+    padding: 20px 0 20px 0;
+}
+
+
+

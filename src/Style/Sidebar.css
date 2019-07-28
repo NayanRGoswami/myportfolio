@@ -1,0 +1,112 @@
+
+.my-image{
+   border-radius: 50%;
+   max-width: 70%;
+   margin-left: 15%;
+   margin-top: 14%;
+    box-shadow: 2px 2px 2px black;
+}
+
+.sidebar{
+    position: fixed;
+    background: rgba(133, 8, 8, 0.8);
+    top: 0;
+    left: 0;
+    max-width: 25%;
+    max-height: 100vh;
+    min-width: 25%;
+    min-height: 100vh;
+}
+
+.no-line:hover{
+    text-decoration: none;
+}
+
+.name{
+    font-family: 'Merriweather', serif;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-top: 20px;
+    letter-spacing: 2.5px;
+    text-align: center;
+    width: 105%;
+    color: white;
+    text-shadow: 3px 3px 3px black;
+}
+
+.developer-title{
+    font-family: 'Merriweather', serif;
+    color: white;
+    font-size: 1em;
+    margin-top: 10px;
+    text-align: center;
+    width: 105%;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
+.sidebar-inner{
+    margin: 10%;
+}
+
+.nav-lists{
+
+}
+
+.nav-links{
+    padding-top: 20px;
+    list-style: none;
+}
+
+.nav-a{
+    color: silver;
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
+    text-decoration: none;
+    font-size: 0.9em;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
+.nav-a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.navigation-panel{
+    width: auto;
+    margin: 15%;
+}
+
+.icon-title{
+    color: white;
+    font-size: 0.8em;
+    margin-left: 15%;
+    font-family: 'Merriweather', serif;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
+.icon-ul{
+    margin-left: 15%;
+}
+
+.icon-li{
+    display: inline;
+    list-style: none;
+}
+
+.main-icons{
+    color: gray;
+    text-shadow: 2px 2px 2px black;
+}
+
+.main-icons:hover{
+    color: white;
+    text-shadow: 3px 3px 3px black;
+}
+
+.icons-a{
+   text-decoration: none;
+}

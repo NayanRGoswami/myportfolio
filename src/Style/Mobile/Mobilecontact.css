@@ -1,0 +1,34 @@
+.mobilecontact{
+    display: none;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    .mobilecontact{
+        display: block;
+
+    }
+
+    .contact-main{
+        max-width: 100%;
+        min-width: 100%;
+        min-height: 70%%;
+        overflow: hidden;
+        background-color: #ffffff;
+        padding: 20px;
+    }
+
+    .contact-med-list{
+        padding: 0;
+    }
+
+    .contact-med-list li{
+        font-size: 14px;
+    }
+
+    .tech-logos{
+        width: 40px;
+    }
+
+}

@@ -1,0 +1,47 @@
+
+.mobileportfolio{
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .main-panel-mobile{
+        max-width: 100%;
+        min-width: 100%;
+        min-height: 100vh;
+        overflow: hidden;
+        background-color: #fafafa;
+        padding: 20px;
+    }
+    .mobileportfolio{
+        display: block;
+    }
+
+    .project-date:after{
+        content: '';
+        width: 5px;
+        height: 5px;
+        position: absolute;
+        top:40px;
+        left:90%;
+        background-color:white;
+    }
+
+    .project-date{
+        padding: 0 0 0 20px;
+        width: 105%;
+        color: #999999;
+        font-size: 14.5px;
+    }
+
+    .project-content{
+        color: #333333;
+        padding: 20px 15px 30px 15px ;
+        border: none;
+        font-size: 14.5px;
+    }
+
+    .project-image-section{
+        border: none;
+    }
+
+}

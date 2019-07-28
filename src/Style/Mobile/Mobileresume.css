@@ -1,0 +1,101 @@
+.mobileresume{
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .main-panel-resume{
+       display: none;
+    }
+
+    .mobileresume{
+        display: block;
+        max-width: 100%;
+        min-width: 100%;
+        min-height: 100vh;
+        overflow: hidden;
+        background-color: white;
+        padding: 0;
+    }
+
+    .resume-body{
+        max-width: 100%;
+        min-width: 100%;
+        min-height: 100vh;
+        overflow: hidden;
+        background-color: #ffffff;
+        padding: 20px;
+        margin: 0;
+    }
+
+    .resume-image{
+        margin-left: 40px;
+        border: #999999 solid thin;
+        border-radius: 5px;
+        max-width: 70%;
+        min-width: 70%;
+        max-height: 70%;
+        min-height: 70%;
+    }
+
+    .resume-name{
+        font-family: 'Merriweather', serif;
+        color: #c40404;
+        font-size: 33px;
+        font-weight: bold;
+        letter-spacing: 2px;
+        text-align: center;
+        padding: 10px 0 0 0;
+    }
+
+    .resume-title{
+        font-family: 'Merriweather', serif;
+        color: #555555;
+        margin: 10px 0;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .resume-objective{
+        text-align: center;
+    }
+
+    .resume-address-bar{
+        border : none;
+        text-align: center;
+        padding: 0 ;
+    }
+
+    .resume-address-bar p{
+        font-family: 'Merriweather', serif;
+        color: #555555;
+        margin: 0;
+    }
+
+    .resume-education-title{
+        text-align: center;
+        padding: 0;
+    }
+
+    .resume-date{
+        text-align: center;
+        width: 100%;
+        color: #999999;
+        font-size: 13px;
+        padding: 5px 0;
+    }
+
+    .resume-section-title{
+        font-family: 'Merriweather', serif;
+        color: #333333;
+        padding: 0;
+        font-size: 14px;
+    }
+
+    .resume-list-ul li{
+        font-family: 'Merriweather', serif;
+        color:#333333;
+        font-size: 12px;
+    }
+}
+

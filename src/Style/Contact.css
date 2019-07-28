@@ -1,0 +1,63 @@
+.main-panel-contact{
+    position: absolute;
+    max-width: 75%;
+    top: 0;
+    left: 25%;
+    min-width: 75%;
+    min-height: 100vh;
+    overflow: hidden;
+    background-color: #fafafa;
+    padding: 0;
+}
+
+.contact-main{
+    max-width: 70%;
+    min-width: 70%;
+    top: 0;
+    left: 0;
+    min-height: 70%;
+    overflow: hidden;
+    background-color: #ffffff;
+    padding: 50px;
+}
+
+.contact-title{
+    font-family: 'Merriweather', serif;
+    margin: 0 0 15px;
+    color:#555555;
+}
+
+.contact-text{
+    font-family: 'Merriweather', serif;
+    color: #333333;
+    margin: 12px 0;
+    font-size: 14.5px;
+}
+
+.contact-med-list{
+    padding: 15px 0 20px 40px;
+}
+
+.contact-med-list li{
+    list-style: none;
+    font-family: 'Merriweather', serif;
+    color:#333333;
+}
+
+.row-1-list{
+    padding: 0 10.5% 0 0;
+}
+
+.row-2-list{
+    padding: 0 9.5% 0 0;
+}
+
+.row-3-list{
+    padding: 0 7.5% 0 0;
+}
+
+.row-4-list{
+    padding: 0 9.5% 0 0;
+}
+
+

@@ -1,0 +1,131 @@
+.main-panel-resume{
+    position: absolute;
+    max-width: 100%;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100vh;
+    overflow: hidden;
+    background-color: #CCC;
+    padding: 0;
+}
+
+.resume-body{
+    max-width: 55%;
+    min-width: 55%;
+    margin: 3% 22.5% 3% 22.5%;
+    min-height: 100vh;
+    overflow: hidden;
+    background-color: #ffffff;
+    padding: 50px;
+    box-shadow: 2px 2px 1px black;
+}
+
+.resume-image{
+    max-width: 100%;
+    min-width: 100%;
+    max-height: 100%;
+    min-height: 100%;
+}
+
+.resume-name{
+    font-family: 'Merriweather', serif;
+    color: #c40404;
+    font-size: 35px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin:0 0 10px 0;
+}
+
+.resume-title{
+    font-family: 'Merriweather', serif;
+    color: #555555;
+    margin: 10px 0;
+    font-size: 25px;
+}
+
+.resume-objective{
+    font-family: 'Merriweather', serif;
+    color: #555555;
+    margin: 25px 0 0 0;
+    font-size: 14.5px;
+}
+
+.resume-address-bar{
+    border-left: thin solid #dedfe0;
+    padding: 0 20px 20px 20px ;
+}
+
+.resume-address-bar p{
+    font-family: 'Merriweather', serif;
+    color: #555555;
+}
+
+.resume-address-text{
+    font-family: 'Merriweather', serif;
+    color: #c40404;
+    font-size: 12px;
+}
+
+.resume-address-text:hover{
+    font-family: 'Merriweather', serif;
+    color: #c40404;
+}
+
+.resume-content{
+    margin: 30px 0 0 0;
+}
+
+.resume-section-semi{
+    list-style: none;
+}
+
+.resume-education-title{
+    font-family: 'Merriweather', serif;
+    color: #c40404;
+    margin: 10px 0;
+    font-size: 20px;
+    padding: 20px 0 0 10px;
+}
+
+.resume-section-title{
+    font-family: 'Merriweather', serif;
+    color: #333333;
+    padding: 10px 0 0 0;
+}
+
+.resume-section-title{
+    font-family: 'Merriweather', serif;
+    color: #333333;
+}
+
+.resume-date{
+    width: 105%;
+    color: #999999;
+    font-size: 14.5px;
+    padding: 7% 0 0 5%;
+}
+
+.list-heading{
+    font-family: 'Merriweather', serif;
+    font-size: 14.5px;
+}
+
+.resume-list-ul{
+    padding: 5px 0 5px 40px;
+}
+
+.resume-list-ul li{
+    font-family: 'Merriweather', serif;
+    color:#333333;
+    font-size: 14.5px;
+}
+
+.main-resume-body{
+    padding-top: 10px;
+}
+
+.main-red-title{
+    padding-left: 0;
+}
+
