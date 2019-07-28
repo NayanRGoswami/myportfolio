@@ -2,46 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0a9ea3f-f973-4e9d-bea2-b2506e28896c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Introduction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Mobile/Mobilecontact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Mobile/Mobilenav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Mobile/Mobileportfolio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Mobile/Mobileresume.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Mobile/Mobileskills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Mobile/Responsivehome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Mobile/Tobar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Portfolio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Resume.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Skills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Images/NayanG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style/Contact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style/Home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style/Introduction.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style/Mobile/Mobilecontact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style/Mobile/Mobilehome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style/Mobile/Mobilenav.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style/Mobile/Mobileportfolio.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style/Mobile/Mobileresume.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style/Mobile/Mobileskills.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style/Portfolio.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style/Resume.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style/Sidebar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style/Skills.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -69,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="60" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="60" />
+            <state relative-caret-position="572">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -78,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            <state relative-caret-position="330">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -143,7 +106,6 @@
         <option value="$PROJECT_DIR$/src/Style/Resume.css" />
         <option value="$PROJECT_DIR$/src/Components/Sidebar.js" />
         <option value="$PROJECT_DIR$/src/Components/Introduction.js" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/Components/Portfolio.js" />
         <option value="$PROJECT_DIR$/src/Components/Skills.js" />
         <option value="$PROJECT_DIR$/src/Style/Mobile/Mobileportfolio.css" />
@@ -165,6 +127,7 @@
         <option value="$PROJECT_DIR$/src/Components/Mobile/Responsivehome.js" />
         <option value="$PROJECT_DIR$/src/Style/Mobile/Mobilehome.css" />
         <option value="$PROJECT_DIR$/src/Components/App.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
@@ -181,8 +144,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
+    <option name="x" value="948" />
+    <option name="width" value="979" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -244,6 +207,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -294,17 +258,18 @@
       <workItem from="1563846291707" duration="6366000" />
       <workItem from="1563896751118" duration="6777000" />
       <workItem from="1564153798525" duration="2047000" />
-      <workItem from="1564242957738" duration="1513000" />
+      <workItem from="1564242957738" duration="3355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125374000" />
+    <option name="totallyTimeSpent" value="127216000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="948" y="0" width="979" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.89518416" visible="true" weight="0.34081197" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.89518416" visible="true" weight="0.33900106" />
       <window_info id="Structure" order="1" sideWeight="0.10481586" side_tool="true" weight="0.1085353" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -598,15 +563,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="60" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="60" />
+        <state relative-caret-position="572">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        <state relative-caret-position="330">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
         </state>
       </provider>
     </entry>
