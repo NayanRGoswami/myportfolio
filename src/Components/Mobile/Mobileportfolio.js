@@ -33,7 +33,7 @@ class Mobileportfolio extends React.Component {
                             <li className= "project">
                                 <div className = "row">
                                     <div className= "col-md-2 project-date">
-                                        <i>Now</i>
+                                        <i>Present</i>
                                     </div>
 
                                     <div className= "col-md-10 project-content">

@@ -21,6 +21,7 @@
     .main-mobile-nav{
         background-color: rgba(186, 63, 54);
         border-top: #999999 solid thin;
+
     }
 
     .main-toggle-icon{
@@ -66,6 +67,16 @@
 
     .main-panel{
       display: none;
+    }
+
+    .mobile-social-icons-li{
+        display: inline;
+        list-style: none;
+    }
+
+    .main-icons{
+        color: white;
+       
     }
 
 }

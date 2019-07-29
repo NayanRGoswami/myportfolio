@@ -24,15 +24,23 @@
         position: relative;
     }
 
-    .introduction{
+    .mobile-introduction{
         max-width: 100%;
-        max-height: 100vh;
+        max-height: 30vh;
         min-width: 100%;
-        min-height: 100vh;
+        min-height: 30vh;
         width: auto;
         top: 40%;
         left: 10px;
         position: absolute;
+    }
+
+    .mobile-words{
+        padding: 50px 0 0 0 ;
+        font-family: 'Merriweather', serif;
+        font-size: 20px;
+        padding-bottom: 5px;
+        color: white;
     }
 
 

@@ -9,6 +9,7 @@ import Mobilenav from "./Mobilenav";
 import {Link} from "react-router-dom";
 import Tobar from "./Tobar";
 import Introduction from "../Introduction";
+import Mobileintroduction from "./Mobileintroduction";
 
 
 class Responsivehome extends React.Component {
@@ -24,7 +25,7 @@ class Responsivehome extends React.Component {
             <div className= "responsivehome">
                 <Mobilenav/>
                 <img className= "home-spec-bg" src= {require('../../Images/background.jpg')} alt="Landscape"/>
-                <Introduction/>
+                <Mobileintroduction/>
             </div>
         );
     }

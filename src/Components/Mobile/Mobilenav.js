@@ -25,6 +25,15 @@ class Mobilenav extends React.Component {
                         <span className="navbar-toggler-icon"></span>
                     </button>
 
+                    <ul className= "mobile-social-icons-ul">
+                        <li className= "mobile-social-icons-li"><a className= "" href = "mailto:nayangoswami008@gmail.com">
+                            <i className="envelope closed icon main-icons"></i></a></li>
+                        <li className= "mobile-social-icons-li"><a className= "icons-a" href = "https://www.linkedin.com/in/nayan-goswami-b6b780165/">
+                            <i className="linkedin icon main-icons"></i></a></li>
+                        <li className= "mobile-social-icons-li"><a className= "icons-a" href = "https://github.com/NayanRGoswami">
+                            <i className="github square icon main-icons"></i></a></li>
+                    </ul>
+
                     <div className="collapse navbar-collapse inner-nav-div" id="navbarSupportedContent">
                         <ul className="navbar-nav mr-auto">
                             <li className="nav-item">
