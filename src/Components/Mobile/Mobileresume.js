@@ -23,7 +23,7 @@ class Mobileresume extends React.Component {
                     <div className= "resume-body">
                         <div className= "row">
                             <div className= "col-md-3">
-                                <img src={require('../../Images/NayanG.png')} alt="My Image" className="resume-image"/>
+                                <img src={require('../../Images/NayanG.jpg')} alt="My Image" className="resume-image"/>
                             </div>
 
                             <div className= "col-md-6">

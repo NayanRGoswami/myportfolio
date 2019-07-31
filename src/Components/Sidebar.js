@@ -51,7 +51,7 @@ class Sidebar extends React.Component {
         return (
                 <div className= "sidebar">
                     <div className= "sidebar-inner">
-                        <a href = "home"><img src = {require('../Images/NayanG.png')} alt = "My Image" className = "my-image"/></a>
+                        <a href = "home"><img src = {require('../Images/NayanG.jpg')} alt = "My Image" className = "my-image"/></a>
                         <a className= "no-line" href = "home"><h2 className= "name">NAYAN GOSWAMI</h2></a>
                         <a className= "no-line" href = "home"><h4 className= "developer-title">FULL-STACK WEB DEVELOPER</h4></a>
 
