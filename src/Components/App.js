@@ -21,6 +21,7 @@ class App extends React.Component {
     render(){
         return (
            <Router history={createBrowserHistory()} >
+               <Route path = {""} component = {Home}/>
                <Route path = {"/home"} component = {Home}/>
                <Route path = {"/portfolio"} component = {Sidebar}/>
                <Route path = {"/skills"} component = {Skills}/>

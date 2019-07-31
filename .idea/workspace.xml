@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0a9ea3f-f973-4e9d-bea2-b2506e28896c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Moredetails/Eshoppers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Moredetails/Twotrees.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style/Moredetails/Eshoppers.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style/Moredetails/Twotrees.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.crt" beforeDir="false" afterPath="$PROJECT_DIR$/server.crt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.key" beforeDir="false" afterPath="$PROJECT_DIR$/server.key" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Portfolio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Sidebar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Skills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Style/Contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Style/Contact.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Style/Mobile/Mobilenav.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Style/Mobile/Mobilenav.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Style/Resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Style/Resume.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Style/Sidebar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Style/Sidebar.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -54,24 +43,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/server.crt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server.key">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Style/Moredetails/Eshoppers.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Components/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="29" column="41" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="41" />
+            <state relative-caret-position="337">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -117,11 +88,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Components/Sidebar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="76" column="83" selection-start-line="76" selection-start-column="54" selection-end-line="76" selection-end-column="83" />
+            <state relative-caret-position="283">
+              <caret line="53" column="45" lean-forward="true" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Style/Sidebar.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -174,16 +154,16 @@
         <option value="$PROJECT_DIR$/src/Style/Resume.css" />
         <option value="$PROJECT_DIR$/src/Style/Contact.css" />
         <option value="$PROJECT_DIR$/src/Components/Skills.js" />
-        <option value="$PROJECT_DIR$/src/Style/Sidebar.css" />
-        <option value="$PROJECT_DIR$/src/Components/Sidebar.js" />
         <option value="$PROJECT_DIR$/src/Components/Moredetails/Twotrees.js" />
-        <option value="$PROJECT_DIR$/src/Components/App.js" />
         <option value="$PROJECT_DIR$/src/Components/Portfolio.js" />
         <option value="$PROJECT_DIR$/src/Style/Moredetails/Eshoppers.css" />
         <option value="$PROJECT_DIR$/src/Components/Moredetails/Eshoppers.js" />
         <option value="$PROJECT_DIR$/server.txt" />
         <option value="$PROJECT_DIR$/server.key" />
         <option value="$PROJECT_DIR$/server.crt" />
+        <option value="$PROJECT_DIR$/src/Components/Sidebar.js" />
+        <option value="$PROJECT_DIR$/src/Style/Sidebar.css" />
+        <option value="$PROJECT_DIR$/src/Components/App.js" />
       </list>
     </option>
   </component>
@@ -223,6 +203,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Components" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="myportfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myportfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Style" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -233,7 +219,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -243,6 +229,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\myportfolio" />
       <recent name="C:\xampp\htdocs\myportfolio\src\Images" />
       <recent name="C:\xampp\htdocs\myportfolio\public" />
     </key>
@@ -283,12 +270,12 @@
       <workItem from="1563896751118" duration="6777000" />
       <workItem from="1564153798525" duration="2047000" />
       <workItem from="1564242957738" duration="5513000" />
-      <workItem from="1564440513160" duration="21994000" />
+      <workItem from="1564440513160" duration="24086000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151368000" />
+    <option name="totallyTimeSpent" value="153460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -599,13 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Style/Sidebar.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Style/Moredetails/Twotrees.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="726">
@@ -633,16 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Sidebar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="76" column="83" selection-start-line="76" selection-start-column="54" selection-end-line="76" selection-end-column="83" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Style/Moredetails/Eshoppers.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="358">
@@ -657,18 +627,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/App.js">
+    <entry file="file://$PROJECT_DIR$/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Images/NayanG.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Sidebar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="41" />
+        <state relative-caret-position="283">
+          <caret line="53" column="45" lean-forward="true" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/manifest.json">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/server.crt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.key">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Style/Sidebar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Moredetails/Eshoppers.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -680,17 +674,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.key">
+    <entry file="file://$PROJECT_DIR$/src/Components/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.crt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="337">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
