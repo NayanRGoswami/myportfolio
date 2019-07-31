@@ -21,7 +21,7 @@ class Skills extends React.Component {
                 <Sidebar/>
                 <Mobileskills/>
                 <div className= "main-panel-skills">
-                    <div class = "skills-main">
+                    <div className = "skills-main">
                         <h2 className= "skills-title">SKILLS</h2>
                         <p className= "skills-section-text">I am a full-stack <strong>web developer</strong> who believes in <strong>learning</strong> and that is best of the skills I have.</p>
                         <p className= "skills-section-text">I have developed <Link to={"./portfolio"} className = "text-danger link-words">multiple projects</Link> in which I accomplished both <strong>front-end</strong> and <strong>back-end tasks.</strong></p>

@@ -50,7 +50,7 @@ class Portfolio extends React.Component {
                                    </div>
 
                                    <div className= "col-md-6 project-content">
-                                       <a href= "#" className="project-title-a"><h3 className="project-title">Two Trees Olive Oil</h3></a>
+                                       <Link to= {"./twotrees"}  className="project-title-a"><h3 className="project-title">Two Trees Olive Oil</h3></Link>
                                        <p className= "project-heading top-bottom">
                                            Two trees provides information to users or customers about the products and also allow them to
                                            give suggestions or comment on the articles.
@@ -63,22 +63,22 @@ class Portfolio extends React.Component {
                                            <li>All the information related to the users and articles is stored in MySQL database.</li>
                                        </ul>
 
-                                       <a href= "#" className= "more-details">
+                                       <Link to= {"./twotrees"} className= "more-details">
                                            More Details
-                                       </a>
+                                       </Link>
 
                                        <p className="technologies">TECHNOLOGIES</p>
 
                                        <ul className = "technologies-ul">
-                                           <li className="technologies-li"><a className="technologies-a" href= "#">Drupal</a></li>
-                                           <li className="technologies-li"><a className="technologies-a" href= "#">MySQL</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://www.drupal.org/">Drupal</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://www.mysql.com/">MySQL</a></li>
                                        </ul>
                                    </div>
 
                                    <div className= "col-md-4 project-image-section">
-                                       <a href = "#">
+                                       <Link to ={"./twotrees"} >
                                            <img className= "project-image" alt = "Eshoppers-home page" src={require("../Images/Projects/twoolive.PNG")}/>
-                                       </a>
+                                       </Link>
                                    </div>
                                </div>
                            </li>
@@ -91,7 +91,7 @@ class Portfolio extends React.Component {
                                    </div>
 
                                    <div className= "col-md-6 project-content">
-                                       <a href= "#" className="project-title-a"><h3 className="project-title">Eshoppers</h3></a>
+                                       <Link to= {"./eshoppers"} className="project-title-a"><h3 className="project-title">Eshoppers</h3></Link>
                                        <p className= "project-descrip">Shopping made more easy</p>
                                        <p className= "project-heading top-bottom">Eshoppers is a ecommerce website which allows you to register for an account and
                                           do some online shopping.
@@ -105,25 +105,25 @@ class Portfolio extends React.Component {
                                            <li>Blade templating system for laravel</li>
                                        </ul>
 
-                                       <a href= "#" className= "more-details">
+                                       <Link to= {"./eshoppers"} className= "more-details">
                                            More Details
-                                       </a>
+                                       </Link>
 
                                        <p className="technologies">TECHNOLOGIES</p>
 
                                        <ul className = "technologies-ul">
-                                           <li className="technologies-li"><a className="technologies-a" href= "#">Laravel</a></li>
-                                           <li className="technologies-li"><a className="technologies-a" href= "#">MySQL</a></li>
-                                           <li className="technologies-li"><a className="technologies-a" href= "#">jQuery</a></li>
-                                           <li className="technologies-li"><a className="technologies-a" href= "#">PHP</a></li>
-                                           <li className="technologies-li"><a className="technologies-a" href= "#">BootStrap</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://laravel.com/">Laravel</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://www.mysql.com/">MySQL</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://jquery.com/">jQuery</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://www.php.net/">PHP</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://getbootstrap.com/">BootStrap</a></li>
                                        </ul>
                                    </div>
 
                                    <div className= "col-md-4 project-image-section">
-                                       <a href = "#">
+                                       <Link to = {"./eshoppers"}>
                                            <img className= "project-image" alt = "Eshoppers-home page" src={require("../Images/Projects/eshoppers.PNG")}/>
-                                       </a>
+                                       </Link>
                                    </div>
                                </div>
                            </li>
@@ -155,11 +155,11 @@ class Portfolio extends React.Component {
                                        <p className="technologies">TECHNOLOGIES</p>
 
                                        <ul className = "technologies-ul">
-                                           <li className="technologies-li"><a className="technologies-a" href= "#">PHP</a></li>
-                                           <li className="technologies-li"><a className="technologies-a" href= "#">jQuery</a></li>
-                                           <li className="technologies-li"><a className="technologies-a" href= "#">AJAX</a></li>
-                                           <li className="technologies-li"><a className="technologies-a" href= "#">Bootstrap</a></li>
-                                           <li className="technologies-li"><a className="technologies-a" href= "#">MySQL</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://www.php.net/">PHP</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://jquery.com/">jQuery</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://www.w3schools.com/xml/ajax_intro.asp">AJAX</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://getbootstrap.com/">Bootstrap</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://www.mysql.com/">MySQL</a></li>
                                        </ul>
                                    </div>
 
@@ -198,11 +198,11 @@ class Portfolio extends React.Component {
                                        <p className="technologies">TECHNOLOGIES</p>
 
                                        <ul className = "technologies-ul">
-                                           <li className="technologies-li"><a className="technologies-a" href= "#">PHP</a></li>
-                                           <li className="technologies-li"><a className="technologies-a" href= "#">jQuery</a></li>
-                                           <li className="technologies-li"><a className="technologies-a" href= "#">AJAX</a></li>
-                                           <li className="technologies-li"><a className="technologies-a" href= "#">Bootstrap</a></li>
-                                           <li className="technologies-li"><a className="technologies-a" href= "#">MySQL</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://www.php.net/">PHP</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://jquery.com/">jQuery</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://www.w3schools.com/xml/ajax_intro.asp">AJAX</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://getbootstrap.com/">Bootstrap</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://www.mysql.com/">MySQL</a></li>
                                        </ul>
                                    </div>
 

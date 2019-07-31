@@ -1,6 +1,6 @@
 
 .my-image{
-   border-radius: 50%;
+   border-radius: 5%;
    max-width: 70%;
    margin-left: 15%;
    margin-top: 14%;
@@ -69,6 +69,8 @@
     text-shadow: 2px 2px 2px black;
 }
 
+
+
 .nav-a:hover{
     color: white;
     text-decoration: none;
@@ -110,3 +112,4 @@
 .icons-a{
    text-decoration: none;
 }
+

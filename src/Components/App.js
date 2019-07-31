@@ -8,6 +8,8 @@ import Sidebar from "./Portfolio";
 import Skills from "./Skills";
 import Contact from "./Contact";
 import Resume from "./Resume";
+import Twotrees from "./Moredetails/Twotrees";
+import Eshoppers from "./Moredetails/Eshoppers";
 
 class App extends React.Component {
 
@@ -24,6 +26,8 @@ class App extends React.Component {
                <Route path = {"/skills"} component = {Skills}/>
                <Route path = {"/contact"} component = {Contact}/>
                <Route path = {"/resume"} component = {Resume}/>
+               <Route path = {"/twotrees"} component={Twotrees}/>
+               <Route path = {"/eshoppers"} component={Eshoppers}/>
            </Router>
         );
     }

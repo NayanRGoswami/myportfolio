@@ -8,8 +8,10 @@ import '../Style/Mobile/Mobilenav.css';
 class Sidebar extends React.Component {
 
     componentDidMount = () => {
-         $(document).ready(function () {
-             $('.nav-a1').hover(function () {
+
+        $(document).ready(function(){
+
+            $('.nav-a1').hover(function () {
                  $('.arrow-see1').addClass('angle right icon');
              })
 
@@ -41,7 +43,7 @@ class Sidebar extends React.Component {
                  $('.arrow-see4').removeClass('angle right icon');
              })
 
-         })
+            });
     }
 
 
@@ -49,7 +51,7 @@ class Sidebar extends React.Component {
         return (
                 <div className= "sidebar">
                     <div className= "sidebar-inner">
-                        <a href = "home"><img src = {require('../Images/NayanG.png')} alt = "My Image" class = "my-image"/></a>
+                        <a href = "home"><img src = {require('../Images/NayanG.png')} alt = "My Image" className = "my-image"/></a>
                         <a className= "no-line" href = "home"><h2 className= "name">NAYAN GOSWAMI</h2></a>
                         <a className= "no-line" href = "home"><h4 className= "developer-title">FULL-STACK WEB DEVELOPER</h4></a>
 
@@ -67,9 +69,12 @@ class Sidebar extends React.Component {
                         <div className = "icon-panel">
                             <p className= "icon-title">Get in touch</p>
                                 <ul className= "icon-ul">
-                                    <li className= "icon-li"><a className= "icons-a" href = "mailto:nayangoswami008@gmail.com"><i className="envelope closed icon main-icons"></i></a></li>
-                                    <li className= "icon-li"><a className= "icons-a" href = "https://www.linkedin.com/in/nayan-goswami-b6b780165/"><i className="linkedin icon main-icons"></i></a></li>
-                                    <li className= "icon-li"><a className= "icons-a" href = "https://github.com/NayanRGoswami"><i className="github square icon main-icons"></i></a></li>
+                                    <li className= "icon-li"><a className= "icons-a" href = "mailto:nayangoswami008@gmail.com">
+                                        <i className="envelope closed icon main-icons"></i></a></li>
+                        <li className= "icon-li"><a className= "icons-a" href = "https://www.linkedin.com/in/nayan-goswami-b6b780165/">
+                            <i className="linkedin icon main-icons"></i></a></li>
+                                    <li className= "icon-li"><a className= "icons-a" href = "https://github.com/NayanRGoswami">
+                                        <i className="github square icon main-icons"></i></a></li>
                                 </ul>
                             </div>
                         </div>

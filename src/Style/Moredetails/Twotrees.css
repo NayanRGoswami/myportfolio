@@ -1,0 +1,44 @@
+.main-panel-two-trees{
+    position: absolute;
+    max-width: 75%;
+    top: 0;
+    left: 25%;
+    min-width: 75%;
+    min-height: 100vh;
+    overflow: hidden;
+    background-color: #fafafa;
+    padding: 50px;
+}
+
+.more-details-title{
+    font-family: 'Merriweather', serif;
+    margin: 0 0 15px;
+    color:#555555;
+}
+
+.main-image{
+    margin: 20px 0 0 0;
+    padding: 20px;
+}
+
+.main-image-img{
+     max-height: 100%;
+    min-height: 100%;
+    max-width: 100%;
+    min-width: 100%;
+    border: solid gray thin;
+}
+
+.more-details-ts{
+    border: 1px solid white;
+    padding: 8px 15px;
+    text-decoration: none;
+    background-color: #c70025;
+    color: white;
+    font-family: 'Merriweather', serif;
+    letter-spacing: 2px;
+}
+
+.more-details-ts:hover{
+    color: white;
+}
