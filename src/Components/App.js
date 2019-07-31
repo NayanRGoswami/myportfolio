@@ -1,5 +1,5 @@
 import React from 'react';
-import {Router, Route} from 'react-router';
+import {Router, Route, Redirect} from 'react-router';
 import { createBrowserHistory } from 'history';
 import $ from 'jquery';
 
@@ -21,6 +21,7 @@ class App extends React.Component {
     render(){
         return (
            <Router history={createBrowserHistory()} >
+               <Redirect from="/" to="/home" />
                <Route path = {"/home"} component = {Home}/>
                <Route path = {"/portfolio"} component = {Sidebar}/>
                <Route path = {"/skills"} component = {Skills}/>
