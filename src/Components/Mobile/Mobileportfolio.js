@@ -72,14 +72,14 @@ class Mobileportfolio extends React.Component {
                                         <p className="technologies">TECHNOLOGIES</p>
 
                                         <ul className = "technologies-ul">
-                                            <li className="technologies-li"><a className="technologies-a" href= "#">Drupal</a></li>
-                                            <li className="technologies-li"><a className="technologies-a" href= "#">MySQL</a></li>
+                                            <li className="technologies-li"><a className="technologies-a" href= "https://www.drupal.org/">Drupal</a></li>
+                                            <li className="technologies-li"><a className="technologies-a" href= "https://www.mysql.com/">MySQL</a></li>
                                         </ul>
                                     </div>
 
                                     <div className= "col-md-4 project-image-section">
                                         <Link to = {"./twotrees"}>
-                                            <img className= "project-image" alt = "Eshoppers-home page" src={require("../../Images/Projects/twoolive.PNG")}/>
+                                            <img className= "project-image" alt = "tow tress-home page" src={require("../../Images/Projects/twoolive.PNG")}/>
                                         </Link>
                                     </div>
                                 </div>
@@ -114,11 +114,11 @@ class Mobileportfolio extends React.Component {
                                         <p className="technologies">TECHNOLOGIES</p>
 
                                         <ul className = "technologies-ul">
-                                            <li className="technologies-li"><a className="technologies-a" href= "#">Laravel</a></li>
-                                            <li className="technologies-li"><a className="technologies-a" href= "#">MySQL</a></li>
-                                            <li className="technologies-li"><a className="technologies-a" href= "#">jQuery</a></li>
-                                            <li className="technologies-li"><a className="technologies-a" href= "#">PHP</a></li>
-                                            <li className="technologies-li"><a className="technologies-a" href= "#">BootStrap</a></li>
+                                            <li className="technologies-li"><a className="technologies-a" href= "https://laravel.com/">Laravel</a></li>
+                                            <li className="technologies-li"><a className="technologies-a" href= "https://www.mysql.com/">MySQL</a></li>
+                                            <li className="technologies-li"><a className="technologies-a" href= "https://jquery.com/">jQuery</a></li>
+                                            <li className="technologies-li"><a className="technologies-a" href= "https://www.php.net/">PHP</a></li>
+                                            <li className="technologies-li"><a className="technologies-a" href= "https://getbootstrap.com/">BootStrap</a></li>
                                         </ul>
                                     </div>
 
@@ -158,17 +158,17 @@ class Mobileportfolio extends React.Component {
                                         <p className="technologies">TECHNOLOGIES</p>
 
                                         <ul className = "technologies-ul">
-                                            <li className="technologies-li"><a className="technologies-a" href= "#">PHP</a></li>
-                                            <li className="technologies-li"><a className="technologies-a" href= "#">jQuery</a></li>
-                                            <li className="technologies-li"><a className="technologies-a" href= "#">AJAX</a></li>
-                                            <li className="technologies-li"><a className="technologies-a" href= "#">Bootstrap</a></li>
-                                            <li className="technologies-li"><a className="technologies-a" href= "#">MySQL</a></li>
+                                            <li className="technologies-li"><a className="technologies-a" href= "https://www.php.net/">PHP</a></li>
+                                            <li className="technologies-li"><a className="technologies-a" href= "https://jquery.com/">jQuery</a></li>
+                                            <li className="technologies-li"><a className="technologies-a" href= "https://www.w3schools.com/xml/ajax_intro.asp">AJAX</a></li>
+                                            <li className="technologies-li"><a className="technologies-a" href= "https://getbootstrap.com/">Bootstrap</a></li>
+                                            <li className="technologies-li"><a className="technologies-a" href= "https://www.mysql.com/">MySQL</a></li>
                                         </ul>
                                     </div>
 
                                     <div className= "col-md-4 project-image-section">
                                         <Link to={"./mws"}>
-                                            <img className= "project-image" alt = "Eshoppers-home page" src={require("../../Images/Projects/mcs.PNG")}/>
+                                            <img className= "project-image" alt = "mcs-home page" src={require("../../Images/Projects/mcs.PNG")}/>
                                         </Link>
                                     </div>
                                 </div>
@@ -202,17 +202,17 @@ class Mobileportfolio extends React.Component {
                                         <p className="technologies">TECHNOLOGIES</p>
 
                                         <ul className = "technologies-ul">
-                                            <li className="technologies-li"><a className="technologies-a" href= "#">PHP</a></li>
-                                            <li className="technologies-li"><a className="technologies-a" href= "#">jQuery</a></li>
-                                            <li className="technologies-li"><a className="technologies-a" href= "#">AJAX</a></li>
-                                            <li className="technologies-li"><a className="technologies-a" href= "#">Bootstrap</a></li>
-                                            <li className="technologies-li"><a className="technologies-a" href= "#">MySQL</a></li>
+                                            <li className="technologies-li"><a className="technologies-a" href= "https://www.php.net/">PHP</a></li>
+                                            <li className="technologies-li"><a className="technologies-a" href= "https://jquery.com/">jQuery</a></li>
+                                            <li className="technologies-li"><a className="technologies-a" href= "https://www.w3schools.com/xml/ajax_intro.asp">AJAX</a></li>
+                                            <li className="technologies-li"><a className="technologies-a" href= "https://getbootstrap.com/">Bootstrap</a></li>
+                                            <li className="technologies-li"><a className="technologies-a" href= "https://www.mysql.com/">MySQL</a></li>
                                         </ul>
                                     </div>
 
                                     <div className= "col-md-4 project-image-section">
                                         <Link to = {"./londoners"}>
-                                            <img className= "project-image" alt = "Eshoppers-home page" src={require("../../Images/Projects/forum.PNG")}/>
+                                            <img className= "project-image" alt = "londoners-home page" src={require("../../Images/Projects/forum.PNG")}/>
                                         </Link>
                                     </div>
                                 </div>
