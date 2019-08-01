@@ -18,6 +18,13 @@ class Resume extends React.Component {
                 <Mobileresume/>
                 <div className= "main-panel-resume">
                     <div className= "resume-body">
+                        <div className= "row close-body">
+                            <div className= "col-md-12">
+                                <Link to={"./portfolio"}>
+                                <h3><i className="close icon text-danger"></i></h3>
+                                </Link>
+                            </div>
+                        </div>
                        <div className= "row">
                            <div className= "col-md-3">
                                <img src={require('../Images/NayanG.jpg')} alt="My Image" className="resume-image"/>
