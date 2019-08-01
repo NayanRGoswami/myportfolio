@@ -52,7 +52,7 @@ class Mobileportfolio extends React.Component {
                                     </div>
 
                                     <div className= "col-md-6 project-content">
-                                        <a href= "#" className="project-title-a"><h3 className="project-title">Two Trees Olive Oil</h3></a>
+                                        <Link to= {"./twotrees"} className="project-title-a"><h3 className="project-title">Two Trees Olive Oil</h3></Link>
                                         <p className= "project-heading top-bottom">
                                             Two trees provides information to users or customers about the products and also allow them to
                                             give suggestions or comment on the articles.
@@ -65,9 +65,9 @@ class Mobileportfolio extends React.Component {
                                             <li>All the information related to the users and articles is stored in MySQL database.</li>
                                         </ul>
 
-                                        <a href= "#" className= "more-details">
+                                        <Link to= {"./twotrees"}className= "more-details">
                                             More Details
-                                        </a>
+                                        </Link>
 
                                         <p className="technologies">TECHNOLOGIES</p>
 
@@ -78,9 +78,9 @@ class Mobileportfolio extends React.Component {
                                     </div>
 
                                     <div className= "col-md-4 project-image-section">
-                                        <a href = "#">
+                                        <Link to = {"./twotrees"}>
                                             <img className= "project-image" alt = "Eshoppers-home page" src={require("../../Images/Projects/twoolive.PNG")}/>
-                                        </a>
+                                        </Link>
                                     </div>
                                 </div>
                             </li>
@@ -93,7 +93,7 @@ class Mobileportfolio extends React.Component {
                                     </div>
 
                                     <div className= "col-md-6 project-content">
-                                        <a href= "#" className="project-title-a"><h3 className="project-title">Eshoppers</h3></a>
+                                        <Link to= {"./eshoppers"} className="project-title-a"><h3 className="project-title">Eshoppers</h3></Link>
                                         <p className= "project-descrip">Shopping made more easy</p>
                                         <p className= "project-heading top-bottom">Eshoppers is a ecommerce website which allows you to register for an account and
                                             do some online shopping.
@@ -107,9 +107,9 @@ class Mobileportfolio extends React.Component {
                                             <li>Blade templating system for laravel</li>
                                         </ul>
 
-                                        <a href= "#" className= "more-details">
+                                        <Link to= {"./eshoppers"} className= "more-details">
                                             More Details
-                                        </a>
+                                        </Link>
 
                                         <p className="technologies">TECHNOLOGIES</p>
 
@@ -123,9 +123,9 @@ class Mobileportfolio extends React.Component {
                                     </div>
 
                                     <div className= "col-md-4 project-image-section">
-                                        <a href = "#">
+                                        <Link to = {"./eshoppers"}>
                                             <img className= "project-image" alt = "Eshoppers-home page" src={require("../../Images/Projects/eshoppers.PNG")}/>
-                                        </a>
+                                        </Link>
                                     </div>
                                 </div>
                             </li>
@@ -138,7 +138,7 @@ class Mobileportfolio extends React.Component {
                                     </div>
 
                                     <div className= "col-md-6 project-content">
-                                        <a href= "#" className="project-title-a"><h3 className="project-title">Microwave Communication System</h3></a>
+                                        <Link to= {"./mws"} className="project-title-a"><h3 className="project-title">Microwave Communication System</h3></Link>
                                         <p className= "project-heading top-bottom">
                                             This PHP application takes data associated with radio frequency and make some calculations using PHP
                                             and shows that information in the form of a graph.
@@ -151,9 +151,9 @@ class Mobileportfolio extends React.Component {
                                             <li>jQuery and AJAX to handle requests</li>
                                         </ul>
 
-                                        <a href= "#" className= "more-details">
+                                        <Link to={"./mws"} className= "more-details">
                                             More Details
-                                        </a>
+                                        </Link>
 
                                         <p className="technologies">TECHNOLOGIES</p>
 
@@ -167,9 +167,9 @@ class Mobileportfolio extends React.Component {
                                     </div>
 
                                     <div className= "col-md-4 project-image-section">
-                                        <a href = "#">
+                                        <Link to={"./mws"}>
                                             <img className= "project-image" alt = "Eshoppers-home page" src={require("../../Images/Projects/mcs.PNG")}/>
-                                        </a>
+                                        </Link>
                                     </div>
                                 </div>
                             </li>
@@ -182,7 +182,7 @@ class Mobileportfolio extends React.Component {
                                     </div>
 
                                     <div className= "col-md-6 project-content">
-                                        <a href= "#" className="project-title-a"><h3 className="project-title">Londoners - Discussion Forum</h3></a>
+                                        <Link to= {"./londoners"} className="project-title-a"><h3 className="project-title">Londoners - Discussion Forum</h3></Link>
                                         <p className= "project-heading top-bottom">
                                             Discussion forum with all the basic functionalities where users can register
                                             and comment about the topic or threads on the different categories available.
@@ -195,9 +195,9 @@ class Mobileportfolio extends React.Component {
                                             <li>Completed the project within the deadline given.</li>
                                         </ul>
 
-                                        <a href= "#" className= "more-details">
+                                        <Link to= {"./londoners"} className= "more-details">
                                             More Details
-                                        </a>
+                                        </Link>
 
                                         <p className="technologies">TECHNOLOGIES</p>
 
@@ -211,9 +211,9 @@ class Mobileportfolio extends React.Component {
                                     </div>
 
                                     <div className= "col-md-4 project-image-section">
-                                        <a href = "#">
+                                        <Link to = {"./londoners"}>
                                             <img className= "project-image" alt = "Eshoppers-home page" src={require("../../Images/Projects/forum.PNG")}/>
-                                        </a>
+                                        </Link>
                                     </div>
                                 </div>
                             </li>

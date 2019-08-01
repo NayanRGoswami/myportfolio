@@ -5,19 +5,19 @@ import {Link} from 'react-router-dom';
 
 import '../../Style/Moredetails/Eshoppers.css';
 import Sidebar from "../Sidebar";
-import Mobileeshoppers from "./Mobileeshoppers";
+import Tobar from "../Mobile/Tobar";
+import Mobilenav from "../Mobile/Mobilenav";
 
 
-class Eshoppers extends React.Component {
+class Mobileeshoppers extends React.Component {
 
     render(){
 
         return (
             <div>
-                <img className= "center-fit" src= {require('../../Images/background.jpg')} alt="Landscape"/>
-                <Sidebar/>
-                 <Mobileeshoppers/>
-                <div className= "main-panel-two-trees">
+                <Tobar/>
+                <Mobilenav/>
+                <div className= "mobile-main-panel-two-trees">
                     <div className= "row">
                         <div className= "col-md-6">
                             <h2 className= "more-details-title">Eshoppers</h2>
@@ -35,9 +35,9 @@ class Eshoppers extends React.Component {
                             </ul>
 
                             <ul>
-                            <li className= "ghub"><a href= "http://nayangoswami.com" className= "more-details-ts">
-                                <i className="external alternate icon"></i> Visit Site
-                            </a></li>
+                                <li className= "ghub"><a href= "http://nayangoswami.com" className= "more-details-ts">
+                                    <i className="external alternate icon"></i> Visit Site
+                                </a></li>
                                 <li className= "ghub"><a href= "https://github.com/NayanRGoswami/eshopper" className= "more-details-ts">
                                     <i className="github square icon"></i> Github
                                 </a></li>
@@ -80,4 +80,4 @@ class Eshoppers extends React.Component {
     }
 }
 
-export default Eshoppers;
+export default Mobileeshoppers;

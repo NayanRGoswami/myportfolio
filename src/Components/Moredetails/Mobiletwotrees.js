@@ -5,19 +5,19 @@ import {Link} from 'react-router-dom';
 
 import '../../Style/Moredetails/Twotrees.css';
 import Sidebar from "../Sidebar";
-import Mobiletwotrees from "./Mobiletwotrees";
+import Tobar from "../Mobile/Tobar";
+import Mobilenav from "../Mobile/Mobilenav";
 
 
-class Twotrees extends React.Component {
+class Mobiletwotrees extends React.Component {
 
     render(){
 
         return (
             <div>
-                <img className= "center-fit" src= {require('../../Images/background.jpg')} alt="Landscape"/>
-                <Sidebar/>
-                <Mobiletwotrees/>
-                <div className= "main-panel-two-trees">
+                <Tobar/>
+                <Mobilenav/>
+                <div className= "mobile-main-panel-two-trees">
                     <div className= "row">
                         <div className= "col-md-6">
                             <h2 className= "more-details-title">Two Trees Olive Oil</h2>
@@ -38,7 +38,7 @@ class Twotrees extends React.Component {
                                 before buying the product and it also allows admin to add different articles.
                             </p><br/>
                             <p className= "project-descrip">
-                              Adding to that user can have their own profile if they want to give suggestions about the product
+                                Adding to that user can have their own profile if they want to give suggestions about the product
                                 to help other users.
                             </p><br/><br/>
 
@@ -57,7 +57,7 @@ class Twotrees extends React.Component {
                         </div>
                     </div>
                         <div className= "row">
-                            <div className= "col-md-12 main-image">
+                            <div className= "col-md-6 main-image">
                                 <img className= "main-image-img" src = {require("../../Images/Projects/twoolive.PNG")} alt = "Two Trees Home Page"/>
                             </div>
                         </div>
@@ -70,8 +70,9 @@ class Twotrees extends React.Component {
                                 <img className= "main-image-img" src = {require("../../Images/Projects/twoolive.3.PNG")} alt = "Two Trees Home Page"/>
                             </div>
                         </div>
+
                     <div className= "row">
-                        <div className= "col-md-12 main-image">
+                        <div className= "col-md-6 main-image">
                             <img className= "main-image-img" src = {require("../../Images/Projects/twoolive.4.PNG")} alt = "Two Trees Home Page"/>
                         </div>
                     </div>
@@ -81,4 +82,4 @@ class Twotrees extends React.Component {
     }
 }
 
-export default Twotrees;
+export default Mobiletwotrees;

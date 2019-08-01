@@ -30,7 +30,7 @@ class Mobileresume extends React.Component {
                                 <h2 className= "resume-name">NAYAN GOSWAMI</h2>
                                 <h3 className= "resume-title">Full-Stack Web Developer</h3>
                                 <p className= "resume-objective">
-                                    A self-motivated IT professional with huge knowledge in
+                                    A self-motivated IT professional with wide knowledge in
                                     JavaScript, HTML, CSS, MySQL, PHP and responsive web-development
                                 </p>
                             </div>

@@ -10,6 +10,8 @@ import Contact from "./Contact";
 import Resume from "./Resume";
 import Twotrees from "./Moredetails/Twotrees";
 import Eshoppers from "./Moredetails/Eshoppers";
+import Londoners from "./Moredetails/Londoners";
+import Lamp from "./Moredetails/Lamp";
 
 class App extends React.Component {
 
@@ -29,6 +31,8 @@ class App extends React.Component {
                <Route path = {"/resume"} component = {Resume}/>
                <Route path = {"/twotrees"} component={Twotrees}/>
                <Route path = {"/eshoppers"} component={Eshoppers}/>
+               <Route path = {"/londoners"} component={Londoners}/>
+               <Route path = {"/mws"} component={Lamp}/>
            </Router>
         );
     }

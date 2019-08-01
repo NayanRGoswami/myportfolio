@@ -77,7 +77,7 @@ class Portfolio extends React.Component {
 
                                    <div className= "col-md-4 project-image-section">
                                        <Link to ={"./twotrees"} >
-                                           <img className= "project-image" alt = "Eshoppers-home page" src={require("../Images/Projects/twoolive.PNG")}/>
+                                           <img className= "project-image" alt = "twotrees-home page" src={require("../Images/Projects/twoolive.PNG")}/>
                                        </Link>
                                    </div>
                                </div>
@@ -135,7 +135,7 @@ class Portfolio extends React.Component {
                                    </div>
 
                                    <div className= "col-md-6 project-content">
-                                       <a href= "#" className="project-title-a"><h3 className="project-title">Microwave Communication System</h3></a>
+                                       <Link to= {"./mws"} className="project-title-a"><h3 className="project-title">Microwave Communication System</h3></Link>
                                        <p className= "project-heading top-bottom">
                                            This PHP application takes data associated with radio frequency and make some calculations using PHP
                                            and shows that information in the form of a graph.
@@ -148,9 +148,9 @@ class Portfolio extends React.Component {
                                            <li>jQuery and AJAX to handle requests</li>
                                        </ul>
 
-                                       <a href= "#" className= "more-details">
+                                       <Link to= {"./mws"} className= "more-details">
                                            More Details
-                                       </a>
+                                       </Link>
 
                                        <p className="technologies">TECHNOLOGIES</p>
 
@@ -164,9 +164,9 @@ class Portfolio extends React.Component {
                                    </div>
 
                                    <div className= "col-md-4 project-image-section">
-                                       <a href = "#">
-                                           <img className= "project-image" alt = "Eshoppers-home page" src={require("../Images/Projects/mcs.PNG")}/>
-                                       </a>
+                                       <Link to = {"./mws"}>
+                                           <img className= "project-image" alt = "MCS-home page" src={require("../Images/Projects/mcs.PNG")}/>
+                                       </Link>
                                    </div>
                                </div>
                            </li>
@@ -178,7 +178,7 @@ class Portfolio extends React.Component {
                                    </div>
 
                                    <div className= "col-md-6 project-content">
-                                       <a href= "#" className="project-title-a"><h3 className="project-title">Londoners - Discussion Forum</h3></a>
+                                       <Link to= {"./londoners"} className="project-title-a"><h3 className="project-title">Londoners - Discussion Forum</h3></Link>
                                        <p className= "project-heading top-bottom">
                                            Discussion forum with all the basic functionalities where users can register
                                            and comment about the topic or threads on the different categories available.
@@ -191,9 +191,9 @@ class Portfolio extends React.Component {
                                            <li>Completed the project within the deadline given.</li>
                                        </ul>
 
-                                       <a href= "#" className= "more-details">
+                                       <Link to= {"./londoners"} className= "more-details">
                                            More Details
-                                       </a>
+                                       </Link>
 
                                        <p className="technologies">TECHNOLOGIES</p>
 
@@ -207,9 +207,9 @@ class Portfolio extends React.Component {
                                    </div>
 
                                    <div className= "col-md-4 project-image-section">
-                                       <a href = "#">
-                                           <img className= "project-image" alt = "Eshoppers-home page" src={require("../Images/Projects/forum.PNG")}/>
-                                       </a>
+                                       <Link to = {"./londoners"}>
+                                           <img className= "project-image" alt = "Londoners-home page" src={require("../Images/Projects/forum.PNG")}/>
+                                       </Link>
                                    </div>
                                </div>
                            </li>

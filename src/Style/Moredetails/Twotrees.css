@@ -42,3 +42,32 @@
 .more-details-ts:hover{
     color: white;
 }
+
+.mobile-main-panel-two-trees{
+    display: none;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .sidebar{
+        display: none;
+    }
+
+   .center-fit{
+       display: none;
+   }
+
+   .mobile-main-panel-two-trees{
+       display: block;
+       max-width: 100%;
+       min-width: 100%;
+       min-height: 100vh;
+       overflow: hidden;
+       background-color: #fafafa;
+       padding: 20px;
+   }
+
+   .main-panel-two-trees{
+       display: none;
+   }
+}
