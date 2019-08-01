@@ -23,11 +23,11 @@ class Skills extends React.Component {
                 <div className= "main-panel-skills">
                     <div className = "skills-main">
                         <h2 className= "skills-title">SKILLS</h2>
-                        <p className= "skills-section-text">I am a full-stack <strong>web developer</strong> who believes in <strong>learning</strong> and that is best of the skills I have.</p>
+                        <p className= "skills-section-text">A full-stack <strong>web developer</strong> who believes in <strong>learning</strong> and that is best of the skills I have.</p>
                         <p className= "skills-section-text">I have developed <Link to={"./portfolio"} className = "text-danger link-words">multiple projects</Link> in which I accomplished both <strong>front-end</strong> and <strong>back-end tasks.</strong></p>
                         <p className= "skills-section-text">Currently, I have <span className= "text-danger">React</span>, <span className= "text-danger">Redux</span>, <span className= "text-danger">Laravel</span> and other various tecnologies in my toolbox.
                         </p>
-                        <p className= "skills-section-text">Frameworks stated above are the ones which I use currently but I am open to learn any of the new
+                        <p className= "skills-section-text">Frameworks stated above are the technologies which I use currently and I am open to learn any of the new
                         frameworks & technologies for a work opportunity, to grow my career as a web developer.</p>
                         <hr className= "line-devider"></hr>
 

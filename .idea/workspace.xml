@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0a9ea3f-f973-4e9d-bea2-b2506e28896c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Moredetails/Lamp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Moredetails/Londoners.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Moredetails/Mobileeshoppers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Moredetails/Mobilelondoners.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Moredetails/Mobilemcs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Moredetails/Mobiletwotrees.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style/Moredetails/Lamp.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style/Moredetails/Londoners.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.crt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.key" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Mobile/Mobileportfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Mobile/Mobileportfolio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Mobile/Mobileresume.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Mobile/Mobileresume.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Moredetails/Eshoppers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Moredetails/Eshoppers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Moredetails/Twotrees.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Moredetails/Twotrees.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Portfolio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Resume.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Resume.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Style/Moredetails/Eshoppers.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Style/Moredetails/Eshoppers.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Style/Moredetails/Twotrees.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Style/Moredetails/Twotrees.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Mobile/Mobileskills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Mobile/Mobileskills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Skills.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -52,30 +35,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="622">
-              <caret line="34" column="53" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/Portfolio.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="166" column="56" selection-start-line="166" selection-start-column="56" selection-end-line="166" selection-end-column="56" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Components/Mobile/Mobileportfolio.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="660">
@@ -99,6 +58,18 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Components/Skills.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="23" column="51" lean-forward="true" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Components/Moredetails/Londoners.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,11 +82,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Components/Moredetails/Twotrees.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
+            <state relative-caret-position="1584">
               <caret line="72" column="42" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Components/Mobile/Mobileskills.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="38" column="64" lean-forward="true" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="64" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -181,7 +164,6 @@
         <option value="$PROJECT_DIR$/src/Components/Home.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/src/Components/Mobile/Mobileskills.js" />
         <option value="$PROJECT_DIR$/src/Components/Mobile/Responsivehome.js" />
         <option value="$PROJECT_DIR$/src/Components/Mobile/Mobileintroduction.js" />
         <option value="$PROJECT_DIR$/src/Style/Mobile/Mobilehome.css" />
@@ -189,7 +171,6 @@
         <option value="$PROJECT_DIR$/src/Style/Mobile/Mobilenav.css" />
         <option value="$PROJECT_DIR$/src/Style/Resume.css" />
         <option value="$PROJECT_DIR$/src/Style/Contact.css" />
-        <option value="$PROJECT_DIR$/src/Components/Skills.js" />
         <option value="$PROJECT_DIR$/server.txt" />
         <option value="$PROJECT_DIR$/server.key" />
         <option value="$PROJECT_DIR$/server.crt" />
@@ -213,6 +194,8 @@
         <option value="$PROJECT_DIR$/src/Components/Moredetails/Lamp.js" />
         <option value="$PROJECT_DIR$/src/Components/Moredetails/Londoners.js" />
         <option value="$PROJECT_DIR$/src/Components/Moredetails/Twotrees.js" />
+        <option value="$PROJECT_DIR$/src/Components/Mobile/Mobileskills.js" />
+        <option value="$PROJECT_DIR$/src/Components/Skills.js" />
       </list>
     </option>
   </component>
@@ -265,6 +248,12 @@
               <item name="myportfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="myportfolio" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myportfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myportfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Style" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -304,8 +293,8 @@
       <recent name="C:\xampp\htdocs\myportfolio\src\Components\Moredetails" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\myportfolio" />
       <recent name="C:\xampp\htdocs\myportfolio\src\Images" />
+      <recent name="C:\xampp\htdocs\myportfolio" />
       <recent name="C:\xampp\htdocs\myportfolio\public" />
     </key>
   </component>
@@ -345,18 +334,18 @@
       <workItem from="1563896751118" duration="6777000" />
       <workItem from="1564153798525" duration="2047000" />
       <workItem from="1564242957738" duration="5513000" />
-      <workItem from="1564440513160" duration="31755000" />
+      <workItem from="1564440513160" duration="32716000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161129000" />
+    <option name="totallyTimeSpent" value="162090000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.89518416" visible="true" weight="0.16807166" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.89518416" weight="0.16807166" />
       <window_info id="Structure" order="1" sideWeight="0.10481586" side_tool="true" weight="0.1085353" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -437,16 +426,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
           <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Mobile/Mobileskills.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2596">
-          <caret line="126" column="28" selection-start-line="126" selection-start-column="28" selection-end-line="126" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -546,16 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Skills.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -782,8 +751,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Moredetails/Twotrees.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
+        <state relative-caret-position="1584">
           <caret line="72" column="42" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Mobile/Mobileskills.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="38" column="64" lean-forward="true" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Skills.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="23" column="51" lean-forward="true" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
