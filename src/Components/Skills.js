@@ -49,12 +49,12 @@ class Skills extends React.Component {
                         </ul>
 
                         <ul>
-                            <a href = "#"><li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/jQuery.png")} alt = "jQuery Logo"/></li></a>
-                            <a href = "#"><li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/react.png")} alt = "React Logo"/></li></a>
-                            <a href = "#"> <li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/bootstrap.png")} alt = "BootStrap Logo"/></li></a>
-                            <a href = "#"> <li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/angular.png")} alt = "Angular Logo"/></li></a>
-                            <a href = "#">  <li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/html.png")} alt = "Css Logo"/></li></a>
-                            <a href = "#"><li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/css.png")} alt = "Js Logo"/></li></a>
+                            <a href = "https://jquery.com/"><li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/jQuery.png")} alt = "jQuery Logo"/></li></a>
+                            <a href = "https://reactjs.org/"><li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/react.png")} alt = "React Logo"/></li></a>
+                            <a href = "https://getbootstrap.com/"> <li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/bootstrap.png")} alt = "BootStrap Logo"/></li></a>
+                            <a href = "https://angularjs.org/"> <li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/angular.png")} alt = "Angular Logo"/></li></a>
+                            <a href = "https://en.wikipedia.org/wiki/HTML">  <li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/html.png")} alt = "Css Logo"/></li></a>
+                            <a href = "https://www.w3schools.com/css/"><li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/css.png")} alt = "Js Logo"/></li></a>
                         </ul>
 
                         <hr className= "line-devider"></hr>
@@ -85,10 +85,10 @@ class Skills extends React.Component {
                         </ul>
 
                         <ul>
-                            <a className= "no-line" href = "#"><li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/laravel.png")} alt = "Laravel Logo"/></li></a>
-                            <a className= "no-line" href = "#"><li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/php.png")} alt = "PHP Logo"/></li></a>
-                            <a className= "no-line" href = "#"> <li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/sql.png")} alt = "MySQL Logo"/></li></a>
-                            <a className= "no-line" href = "#"> <li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/c.png")} alt = "C# Logo"/></li></a>
+                            <a className= "no-line" href = "https://laravel.com/"><li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/laravel.png")} alt = "Laravel Logo"/></li></a>
+                            <a className= "no-line" href = "https://www.php.net/"><li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/php.png")} alt = "PHP Logo"/></li></a>
+                            <a className= "no-line" href = "https://www.mysql.com/"> <li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/sql.png")} alt = "MySQL Logo"/></li></a>
+                            <a className= "no-line" href = "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"> <li className= "tech-logos-li"><img className= "tech-logos" src={require("../Images/techs/c.png")} alt = "C# Logo"/></li></a>
                         </ul>
 
                         <hr className="line-devider"></hr>
