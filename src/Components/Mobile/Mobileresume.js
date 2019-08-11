@@ -113,7 +113,7 @@ class Mobileresume extends React.Component {
 
                                         <div className= "row">
                                             <div className= "col-md-3">
-                                                <p className= "resume-date">
+                                                <p className= "resume-date-no-color">
 
                                                 </p>
                                             </div>
@@ -335,7 +335,7 @@ class Mobileresume extends React.Component {
 
                                     <div className= "row">
                                         <div className= "col-md-3">
-                                            <p className= "resume-date">
+                                            <p className= "resume-date-no-color">
 
                                             </p>
 

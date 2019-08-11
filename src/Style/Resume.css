@@ -100,9 +100,19 @@
 
 .resume-date{
     width: 105%;
-    color: #999999;
+    color: #333333;
+    background-color: #ededed;
     font-size: 14.5px;
-    padding: 7% 0 0 5%;
+    padding: 3% 4% 3% 3%;
+    text-align: right;
+}
+
+.resume-date-no-color{
+    width: 105%;
+    color: #333333;
+    font-size: 14.5px;
+    padding: 3% 4% 3% 3%;
+    text-align: right;
 }
 
 .list-heading{
