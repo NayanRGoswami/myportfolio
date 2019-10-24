@@ -58,9 +58,9 @@ class Portfolio extends React.Component {
                                            <li>Bootstrap styling</li>
                                        </ul>
 
-                                       <Link to= {"./Game-artist portfolio"} className= "more-details">
+                                       /*<Link to= {"./Game-artist portfolio"} className= "more-details">
                                            More Details
-                                       </Link>
+                                       </Link>*/
 
                                        <p className="technologies">TECHNOLOGIES</p>
 
