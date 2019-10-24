@@ -30,14 +30,51 @@ class Portfolio extends React.Component {
                        <ul>
                            <li className= "project">
                                <div className = "row">
-                                   <div className= "col-md-2 project-date">
-                                       <i>Present</i>
-                                   </div>
+
 
                                    <div className= "col-md-10 project-content">
-                                       <p className= "project-heading">Developing a personal website for a Game Designer</p>
                                        <p className= "project-descrip">Looking for a full-stack web developer to join your team ?</p>
                                        <p className= "project-descrip"><Link to= {"./contact"}><span className= "text-danger">Contact me.</span></Link> I will get back to you within ~ 24 hours.</p>
+                                   </div>
+                               </div>
+                           </li>
+
+                           <li className= "project">
+                               <div className = "row">
+                                   <div className= "col-md-2 project-date">
+                                       <i>AUG 2019 - SEP 2019</i>
+                                   </div>
+
+                                   <div className= "col-md-6 project-content">
+                                       <Link to= {"./twotrees"}  className="project-title-a"><h3 className="project-title">Game Artist Portfolio template</h3></Link>
+                                       <p className= "project-heading top-bottom">
+                                           This template is made to display projects which are done in software like Sketchfab, Autocad or Revit using api.
+                                       </p>
+                                       <p className= "project-descrip">This website is developed to learn how we can fetch data using api offered by software like
+                                           Sketcfab and Autocad:</p>
+                                       <ul className= "bullet-descrip">
+                                           <li>React Framework</li>
+                                           <li>Sketchfab API</li>
+                                           <li>Bootstrap styling</li>
+                                       </ul>
+
+                                       <Link to= {"./Game-artist portfolio"} className= "more-details">
+                                           More Details
+                                       </Link>
+
+                                       <p className="technologies">TECHNOLOGIES</p>
+
+                                       <ul className = "technologies-ul">
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://www.drupal.org/">React</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://www.mysql.com/">HTML</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://www.mysql.com/">CSS</a></li>
+                                       </ul>
+                                   </div>
+
+                                   <div className= "col-md-4 project-image-section">
+                                       <Link to ={"./twotrees"} >
+                                           <img className= "project-image" alt = "Portfolio template" src={require("../Images/Projects/game_artist.PNG")}/>
+                                       </Link>
                                    </div>
                                </div>
                            </li>

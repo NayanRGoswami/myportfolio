@@ -62,7 +62,7 @@ class Eshoppers extends React.Component {
                         </div>
 
                         <div className= "row">
-                            <div className= "col-md-6 main-image">
+                            <div className= "col-mvid-6 main-image">
                                 <img className= "main-image-img" src = {require("../../Images/Projects/eshoppers.2.PNG")} alt = "Two Trees Home Page"/>
                             </div>
                             <div className= "col-md-6 main-image">

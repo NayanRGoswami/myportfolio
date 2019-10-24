@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.47071ff5.chunk.css",
+    "main.js": "/static/js/main.7d11ef44.chunk.js",
+    "main.js.map": "/static/js/main.7d11ef44.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
+    "static/js/2.20280c09.chunk.js": "/static/js/2.20280c09.chunk.js",
+    "static/js/2.20280c09.chunk.js.map": "/static/js/2.20280c09.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1bbc0f78dd412b7ed9807bbaf37de2f1.js": "/precache-manifest.1bbc0f78dd412b7ed9807bbaf37de2f1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.47071ff5.chunk.css.map": "/static/css/main.47071ff5.chunk.css.map",
+    "static/media/NayanG.png": "/static/media/NayanG.bed1038f.png",
+    "static/media/angular.png": "/static/media/angular.a8140ecd.png",
+    "static/media/background.jpg": "/static/media/background.b1a55c8a.jpg",
+    "static/media/bootstrap.png": "/static/media/bootstrap.2df50bf0.png",
+    "static/media/c.png": "/static/media/c.5f1a8e14.png",
+    "static/media/css.png": "/static/media/css.9c1431e3.png",
+    "static/media/eshoppers.PNG": "/static/media/eshoppers.78e6ba79.PNG",
+    "static/media/forum.PNG": "/static/media/forum.14bc3fc8.PNG",
+    "static/media/html.png": "/static/media/html.9cf4a14c.png",
+    "static/media/jQuery.png": "/static/media/jQuery.b3f706e4.png",
+    "static/media/laravel.png": "/static/media/laravel.ca4bccb3.png",
+    "static/media/mcs.PNG": "/static/media/mcs.079f9f7c.PNG",
+    "static/media/php.png": "/static/media/php.a06f8937.png",
+    "static/media/sql.png": "/static/media/sql.6c46aa06.png",
+    "static/media/twoolive.PNG": "/static/media/twoolive.30f14658.PNG"
+  }
+}
