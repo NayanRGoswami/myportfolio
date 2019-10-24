@@ -34,7 +34,6 @@ class App extends React.Component {
                <Route path = {"/eshoppers"} component={Eshoppers}/>
                <Route path = {"/londoners"} component={Londoners}/>
                <Route path = {"/mws"} component={Lamp}/>
-               <Route path = {"/Game-artist portfolio"} component={Gameartist}/>
            </Router>
         );
     }
