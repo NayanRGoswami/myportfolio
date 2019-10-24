@@ -5,7 +5,6 @@ import {Link} from 'react-router-dom';
 
 import '../Style/Portfolio.css';
 import Sidebar from "./Sidebar";
-import Mobilenav from "./Mobile/Mobilenav";
 import Mobileportfolio from "./Mobile/Mobileportfolio";
 
 class Portfolio extends React.Component {
@@ -58,9 +57,9 @@ class Portfolio extends React.Component {
                                            <li>Bootstrap styling</li>
                                        </ul>
 
-                                       /*<Link to= {"./Game-artist portfolio"} className= "more-details">
+                                       <Link to= {""} className= "more-details">
                                            More Details
-                                       </Link>*/
+                                       </Link>
 
                                        <p className="technologies">TECHNOLOGIES</p>
 

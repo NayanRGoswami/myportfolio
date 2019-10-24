@@ -12,7 +12,6 @@ import Twotrees from "./Moredetails/Twotrees";
 import Eshoppers from "./Moredetails/Eshoppers";
 import Londoners from "./Moredetails/Londoners";
 import Lamp from "./Moredetails/Lamp";
-import Gameartist from "./Moredetails/Gameartist";
 
 class App extends React.Component {
 
@@ -24,7 +23,6 @@ class App extends React.Component {
     render(){
         return (
            <Router history={createBrowserHistory()} >
-               <Redirect from="/" to="/home" />
                <Route path = {"/home"} component = {Home}/>
                <Route path = {"/portfolio"} component = {Sidebar}/>
                <Route path = {"/skills"} component = {Skills}/>
@@ -34,7 +32,6 @@ class App extends React.Component {
                <Route path = {"/eshoppers"} component={Eshoppers}/>
                <Route path = {"/londoners"} component={Londoners}/>
                <Route path = {"/mws"} component={Lamp}/>
-               /*<Route path = {"/Game-artist portfolio"} component={Gameartist}/>*/
            </Router>
         );
     }
