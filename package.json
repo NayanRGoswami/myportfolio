@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-     "node": "11.1.0",
-     "npm" :  "6.4.1"
+    "node": "11.1.0",
+    "npm": "6.4.1"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
@@ -39,6 +39,6 @@
     ]
   },
   "devDependencies": {
-
+    "gh-pages": "^2.1.1"
   }
 }
