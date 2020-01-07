@@ -27,13 +27,52 @@ class Portfolio extends React.Component {
                     <p className= "portfolio-intro">Check Out My Work Below</p>
                     <div className = "projects-list">
                        <ul>
+
                            <li className= "project">
                                <div className = "row">
-
-
                                    <div className= "col-md-10 project-content">
                                        <p className= "project-descrip">Looking for a full-stack web developer to join your team ?</p>
                                        <p className= "project-descrip"><Link to= {"./contact"}><span className= "text-danger">Contact me.</span></Link> I will get back to you within ~ 24 hours.</p>
+                                   </div>
+                               </div>
+                           </li>
+
+                           <li className= "project">
+                               <div className = "row">
+                                   <div className= "col-md-2 project-date">
+                                       <i>SEP 2019 - NOV 2019</i>
+                                   </div>
+
+                                   <div className= "col-md-6 project-content">
+                                       <Link to= {"./twotrees"}  className="project-title-a"><h3 className="project-title">Game Artist's Website</h3></Link>
+                                       <p className= "project-heading top-bottom">
+                                          The portfolio website helps them to display their projects built in sketchfab, in their own
+                                           website. This makes it easier for them to show all their work on a single website.
+                                       </p>
+                                       <p className= "project-descrip">The application is developed using React :</p>
+                                       <ul className= "bullet-descrip">
+                                           <li>React Components</li>
+                                           <li>Sketchfab API</li>
+                                       </ul>
+
+                                       <Link to= {"./gameartist"} className= "more-details">
+                                           More Details
+                                       </Link>
+
+                                       <p className="technologies">TECHNOLOGIES</p>
+
+                                       <ul className = "technologies-ul">
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://jquery.com/">jQuery</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://www.w3schools.com/xml/ajax_intro.asp">AJAX</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://getbootstrap.com/">Bootstrap</a></li>
+                                           <li className="technologies-li"><a className="technologies-a" href= "https://reactjs.org/">React</a></li>
+                                       </ul>
+                                   </div>
+
+                                   <div className= "col-md-4 project-image-section">
+                                       <Link to ={"./gameartist"} >
+                                           <img className= "project-image" alt = "twotrees-home page" src={require("../Images/Projects/game_artist.PNG")}/>
+                                       </Link>
                                    </div>
                                </div>
                            </li>

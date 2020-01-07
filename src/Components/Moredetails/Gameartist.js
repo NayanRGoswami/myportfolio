@@ -34,10 +34,10 @@ class Gameartist extends React.Component {
                            <br/><br/>
 
                             <ul>
-                                <li className= "ghub"><a href= "http://nayangoswami.com/Londoners" className= "more-details-ts">
+                                <li className= "ghub"><a href= "https://kind-almeida-7178f7.netlify.com/home" className= "more-details-ts">
                                     <i className="external alternate icon"></i> Visit Site
                                 </a></li>
-                                <li className= "ghub"><a href= "https://github.com/NayanRGoswami/Londoners" className= "more-details-ts">
+                                <li className= "ghub"><a href= "https://github.com/NayanRGoswami/Game-Designer-Portfolio" className= "more-details-ts">
                                     <i className="github square icon"></i> Github
                                 </a></li>
                             </ul>
